@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{F1C71FD4-B345-468E-9361-262FA92BBE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{2838ECE6-E2F8-4DF6-BB69-58F1928F6D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{35827B99-CAF2-4170-80FB-03FD78895D6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C71FD4-B345-468E-9361-262FA92BBE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C71FD4-B345-468E-9361-262FA92BBE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C71FD4-B345-468E-9361-262FA92BBE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C71FD4-B345-468E-9361-262FA92BBE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2838ECE6-E2F8-4DF6-BB69-58F1928F6D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2838ECE6-E2F8-4DF6-BB69-58F1928F6D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2838ECE6-E2F8-4DF6-BB69-58F1928F6D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2838ECE6-E2F8-4DF6-BB69-58F1928F6D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35827B99-CAF2-4170-80FB-03FD78895D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35827B99-CAF2-4170-80FB-03FD78895D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35827B99-CAF2-4170-80FB-03FD78895D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35827B99-CAF2-4170-80FB-03FD78895D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEF44204-6851-43ED-8F70-22C6CD1C2BC6}
+	EndGlobalSection
+EndGlobal
